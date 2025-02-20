@@ -2,6 +2,8 @@ Create high quality terraform content
 
 
 
+
+
 	-------------------
 Infrastructure as Code (IaC) 
 	Process of managing and provisioning the complete IT infrastructure 
