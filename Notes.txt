@@ -2,8 +2,6 @@ Create high quality terraform content
 
 
 
-
-
 	-------------------
 Infrastructure as Code (IaC) 
 	Process of managing and provisioning the complete IT infrastructure 
@@ -1251,6 +1249,8 @@ Step-03: Understand Terraform Free and Paid Plan Features and Enable Trial for T
 07:04
 Step-04: Create CLI-Driven Workspace in Terraform Cloud
 09:54
+
+#end
 Step-05: Review Sentinel Policy: Check Terraform Version
 10:10
 Step-06: Review Sentinel Policy: Restrict S3 Buckets
